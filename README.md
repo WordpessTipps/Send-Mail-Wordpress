@@ -1,7 +1,8 @@
 # Send-Mail-Wordpress
 
-// email data
+
 <pre>
+// email data
 $name = "hubert <test@test.tld>";
 $to = 'info@domain.tld';
 $headers = 'From: ' . $name . ' <' . $email . '>' . "\r\n";
